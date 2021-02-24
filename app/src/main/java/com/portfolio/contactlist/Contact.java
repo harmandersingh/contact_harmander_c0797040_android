@@ -47,7 +47,7 @@ public class Contact
     public String getContactPhone() { return this.contactPhone; }
     public String getContactEmail() { return this.contactEmail; }
     public String getContactAddress() { return this.contactAddress; }
-
+//uythgd
     //SETTERS
     public void setId(int id) { this.id = id; }
     public void setContactFirstName(String name) { this.contactFirstName = name; } //Unused
